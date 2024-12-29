@@ -1,3 +1,3 @@
-# LearningGitHub
 My first Github repository
-Author - Laksh Khandelwal
+<br>
+Author - Laksh Khandelwal 
