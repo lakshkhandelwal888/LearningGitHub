@@ -1,3 +1,3 @@
 My first Github repository
 <br>
-Author - Laksh Khandelwal 
+Author - Laksh Khandelwal (VIT AIDS)
